@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7354AA8-E5FA-4788-82EA-D5BD5D990E40}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7354AA8-E5FA-4788-82EA-D5BD5D990E40}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC44EC-B984-4C17-9A94-BCF6585F2E37}|Lab11.2\\Lab11.2.vcxproj|C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\Lab11.2\\lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18DC44EC-B984-4C17-9A94-BCF6585F2E37}|Lab11.2\\Lab11.2.vcxproj|solutionrelative:Lab11.2\\lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T10:30:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab11.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\Lab11.2\\lab11.2.cpp",
+              "RelativeDocumentMoniker": "Lab11.2\\lab11.2.cpp",
+              "ToolTip": "C:\\Users\\Oleh Sukanets\\Desktop\\Studying\\\u043A\u043E\u0434\u0438 \u0410\u041F\\Lab11.2\\Lab11.2\\lab11.2.cpp",
+              "RelativeToolTip": "Lab11.2\\lab11.2.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T10:25:26.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
